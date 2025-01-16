@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suat Aydın</h1>
+<h1 align="center">Suat Aydın</h1>
 <h3 align="center">A passionate Software QA Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Playwright**
